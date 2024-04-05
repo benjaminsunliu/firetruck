@@ -1,5 +1,5 @@
 # firetruck
-[DEMO](https://www.youtube.com/watch?v=l2Vn9u5bldI&ab_channel=BenjaminLiu)
+[DEMO Video](https://www.youtube.com/watch?v=l2Vn9u5bldI&ab_channel=BenjaminLiu)
 #### Overview
 
 Inspired by the significant historical and recent fire disasters, our team embarked on a technological journey to design an autonomous firefighting vehicle. This innovative project was born out of the necessity to address the increasing frequency and intensity of fires, aiming to leverage cutting-edge technology to detect, navigate to, and extinguish fires more efficiently and with precision.
